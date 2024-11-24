@@ -195,6 +195,5 @@ int main() {
     }
 
     outFile.close();
-    std::cout << "Results saved to merge_insertion_sort_times.csv" << std::endl;
     return 0;
 }
